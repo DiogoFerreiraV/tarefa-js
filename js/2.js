@@ -41,7 +41,7 @@ document.write("<p>"+"O valor da variável C é:"+c);
 document.write("<p>"+"O valor da variável D é:"+d);
 document.write("<p>"+"O valor da variável E é:"+e);*/
 
-/*hoje=new Date();
+hoje=new Date();
 xDia=hoje.getDay();
 pratoDia=new Date();
 valorPrato=new Date();
@@ -66,24 +66,24 @@ pratoDia[5]=" Picanha defumada";
 pratoDia[6]=" Carne de panela";
 
 //Preços dos pratos
-valorPrato[0]=" R$25,00 porção para 3";
-valorPrato[1]=" R$30,00 porção para 3";
-valorPrato[2]=" R$25,00 porção para 3";
-valorPrato[3]=" R$35,00 porção para 3";
-valorPrato[4]=" R$40,00 porção para 3";
-valorPrato[5]=" R$50,00 porção para 3";
-valorPrato[6]=" R$20,00 porção para 3";
+valorPrato[0]=" R$25,00 porção para 3 pessoas";
+valorPrato[1]=" R$30,00 porção para 3 pessoas";
+valorPrato[2]=" R$25,00 porção para 3 pessoas";
+valorPrato[3]=" R$35,00 porção para 3 pessoas";
+valorPrato[4]=" R$40,00 porção para 3 pessoas";
+valorPrato[5]=" R$50,00 porção para 3 pessoas";
+valorPrato[6]=" R$20,00 porção para 3 pessoas";
 
 document.write(" O número da semana é:"+""+(xDia+1));
 document.write("<p><b>"+"Hoje é:"+diaSemana[xDia]);
 document.write("<p><b>"+"Prato do dia é:"+pratoDia[xDia]);
-document.write("<p><b>"+"Valor da porção:"+valorPrato[xDia]);*/
+document.write("<p><b>"+"Valor da porção:"+valorPrato[xDia]);
 
 /*for(i=1; i<5;i++){
     document.write("Esta é a linha ",i,"<br>");
-}*/
+}
 
-/*valor=new Array(3,2,4,1,5);
+valor=new Array(3,2,4,1,5);
 i=0;
 total=0;
 while(total<10){
